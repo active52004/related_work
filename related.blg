@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: related.aux
+The style file: plain.bst
+Database file #1: ./resource/tag_paper.bib.bib
+Warning--can't use both volume and number fields in cbc1994
+Warning--empty booktitle in tweak
+Warning--empty journal in Rogaway2011
+Warning--there's a number but no volume in NIST_suite
+Warning--empty journal in candidate_test
+Warning--empty journal in final_test
+You've used 40 entries,
+            2118 wiz_defined-function locations,
+            734 strings with 11995 characters,
+and the built_in function-call counts, 16280 in all, are:
+= -- 1712
+> -- 559
+< -- 31
++ -- 219
+- -- 179
+* -- 1021
+:= -- 2422
+add.period$ -- 122
+call.type$ -- 40
+change.case$ -- 209
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 741
+empty$ -- 1358
+format.name$ -- 179
+if$ -- 3642
+int.to.chr$ -- 0
+int.to.str$ -- 40
+missing$ -- 40
+newline$ -- 204
+num.names$ -- 82
+pop$ -- 266
+preamble$ -- 1
+purify$ -- 169
+quote$ -- 0
+skip$ -- 591
+stack$ -- 0
+substring$ -- 1250
+swap$ -- 279
+text.length$ -- 31
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 160
+warning$ -- 6
+while$ -- 179
+width$ -- 42
+write$ -- 460
+(There were 6 warnings)
