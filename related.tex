@@ -4,6 +4,22 @@
 \usepackage{amsmath}
 \begin{document}
 \section{Related Work}
+\subsection{Preliminaries}
+\paragraph{The Confidentiality of Message and Tag Design}
+The following contents are listed in this paragraph:
+\begin{itemize}
+	\item the mechanism that using tag to protect integrity of message
+	\item Some early tag design, the mechanism and application
+\end{itemize}
+\paragraph{The Security of Tag Design}
+In this paragraph:
+\begin{itemize}
+	\item The security of tag design.
+	\item the basic security evaluation
+	\item some automative security evaluation
+\end{itemize}
+\subsection{Tag Designs for Embedded System}
+\subsection{}
 \subsection{Basic concepts}
 \subsubsection{Message Authentication}
 The message authentication system aims to provide protection on the integrity of messages. Assume the sender A sends message M to receiver B,the message authentication system be eligible to examine the modification on M. The concept of message authentication system is expressed in Figure 1. The sender uses the message as input to the tag generation system(TG$_K$(M)) to generate a short information block called tag. The message is concatenated with tag and transmitted to the receiver. Before the receiver accept the message M, M and its tag T are sent to the verification system(VF$_K$(M,T)). If the output of verification system is 1, that means the M and T are not matched, otherwise the message M is accepted by the receiver. 
