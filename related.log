@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 NOV 2013 10:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  20 FEB 2014 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -154,17 +154,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(./related.aux
-
-LaTeX Warning: Label `fig: ' multiply defined.
-
-
-LaTeX Warning: Label `fig: ' multiply defined.
-
-
-LaTeX Warning: Label `fig: ' multiply defined.
-
-)
+(./related.aux)
 \openout1 = `related.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -179,7 +169,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
- (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
 \scratchdimen=\dimen121
@@ -293,27 +284,24 @@ Underfull \hbox (badness 2913) in paragraph at lines 166--172
 
  []
 
-[15] [16]) [17] (./related.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[15] [16]) [17] (./related.aux) ) 
 Here is how much of TeX's memory you used:
- 3292 strings out of 493488
- 49519 string characters out of 3141326
- 112257 words of memory out of 3000000
- 6579 multiletter control sequences out of 15000+200000
+ 3295 strings out of 493488
+ 49544 string characters out of 3141326
+ 112242 words of memory out of 3000000
+ 6582 multiletter control sequences out of 15000+200000
  5958 words of font info for 22 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  44i,8n,42p,763b,283s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
-sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti10.pfb>
 Output written on related.pdf (17 pages, 276120 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)

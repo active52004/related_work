@@ -11,7 +11,7 @@ The message authentication system aims to provide protection on the integrity of
 \centering
 \includegraphics[scale=0.4]{./diagram/ma.pdf}
 \caption{The Concept of Message Authentication System}
-\label{fig: }
+\label{fig:1 }
 \end{figure}
 \paragraph{Common Message Authentication Systems}
 The Message Authentication Code(MAC) is a common message authentication system. The concept of MAC scheme can be seen in Figure 2. In a deterministic MAC scheme, the verification system adopts the same key used in tag generation system. In the verification part of a MAC scheme, the tag T1 of message M is computed and compared with the tag T concatenated with the M. If T1=T then the verification system output 1 and the receiver accepts M, otherwise the verification system output 0. 
@@ -22,7 +22,7 @@ Digital signature is another kind of message authentication system. The signatur
 \centering
 \includegraphics[scale=0.4]{./diagram/MAC.pdf}
 \caption{Message Authentication Code(MAC)}
-\label{fig: }
+\label{fig:2 }
 \end{figure}
 \subsubsection{The Security of MAC schemes}
 \paragraph{The forgery attacks}
@@ -79,7 +79,7 @@ The NIST suite has be adopted in the candidate selection of Advanced Encryption 
 \centering
 \includegraphics[scale=0.3]{./diagram/cbc-mac.pdf}
 \caption{The Raw CBC-MAC}
-\label{fig: }
+\label{fig:3 }
 \end{figure}
 The research on iterated MAC schemes started from the raw CBC-MAC expressed in Figure 3.
 \paragraph{Raw CBC-MAC}
@@ -99,7 +99,7 @@ Petrank and Rackof provided the original security evaluation of EMAC in \cite{em
 \centering
 \includegraphics[scale=0.3]{./diagram/cmac.pdf}
 \caption{The class of CMAC}
-\label{fig: }
+\label{fig:4 }
 \end{figure}
 Hence the raw CBC-MAC is vulnerable if the input length is not fixed, a class of MAC schemes named CMAC are developed to provide security for arbitrary length of inputs. The structure of the  variants of CMAC is modeled in Figure 4.
 \paragraph{XCBC: three key version of CMAC }
